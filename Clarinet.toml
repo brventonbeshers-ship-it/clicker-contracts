@@ -1,0 +1,11 @@
+[project]
+name = "clicker-contracts"
+authors = ["brventonbeshers-ship-it"]
+description = "Clarity smart contracts for the Clicker dApp on Stacks blockchain"
+telemetry = false
+requirements = []
+
+[contracts.clicker-v2]
+path = "contracts/clicker-v2.clar"
+clarity_version = 2
+epoch = 2.5
